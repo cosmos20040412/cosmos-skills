@@ -1,0 +1,4 @@
+interface:
+  display_name: "腾讯云浏览器部署"
+  short_description: "通过已登录浏览器上传网站或游戏，配置独立服务、HTTPS 并验证上线"
+  default_prompt: "使用 $tencent-lighthouse-browser-deploy，通过我已登录的腾讯云浏览器上传并部署这个游戏，保留已有网站并验证联机功能。"
